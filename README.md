@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santinomantineo" alt="santinomantineo" /></a> </p>
 
-- 🔭 I’m just finished my project [Lo Canjeamos?](https://github.com/SantinoMantineo/Lo-Canjeamos)
+- 🔭 I just finished my project [Lo Canjeamos?](https://github.com/SantinoMantineo/Lo-Canjeamos) take a look!
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/santino-mantineo-318231201/](https://www.linkedin.com/in/santino-mantineo-318231201/)
 
