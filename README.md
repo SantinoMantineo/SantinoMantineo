@@ -5,7 +5,7 @@
 
 - 🔭 I just finished my project [Lo Canjeamos?](https://github.com/SantinoMantineo/Lo-Canjeamos) take a look!
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://655e4ef4d54de95ead4e3080--santinoportfolio.netlify.app) take a look!
+- 👨‍💻 All of my projects are available at [my Portfolio](https://santinoportfolio.netlify.app) take a look!
 
 - 📫 How to reach me **santinomantineo@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">My Portfolio</h3>
 <p align="left">
-<a href="https://655e4ef4d54de95ead4e3080--santinoportfolio.netlify.app" target="blank"><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2019/05/portfolio-plus-banking-software-vector-logo.png" alt="santino mantineo" height="70" width="110" /></a>
+<a href="https://santinoportfolio.netlify.app" target="blank"><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2019/05/portfolio-plus-banking-software-vector-logo.png" alt="santino mantineo" height="70" width="110" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santinomantineo&show_icons=true&locale=en&layout=compact" alt="santinomantineo" /></p>
