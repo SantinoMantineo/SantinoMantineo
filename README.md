@@ -5,7 +5,7 @@
 
 - 🔭 I just finished my project [Lo Canjeamos?](https://github.com/SantinoMantineo/Lo-Canjeamos) take a look!
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://seekvectorlogo.com/wp-content/uploads/2019/05/portfolio-plus-banking-software-vector-logo.png) take a look!
+- 👨‍💻 All of my projects are available at [my Portfolio](https://portfolio-hkbbdvqxb-santinos-projects-59efed69.vercel.app) take a look!
 
 - 📫 How to reach me **santinomantineo@gmail.com**
 
